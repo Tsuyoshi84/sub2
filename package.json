@@ -1,7 +1,7 @@
 {
   "name": "sub1",
   "version": "1.0.0",
-  "packageManager": "pnpm@9.12.1",
+  "packageManager": "pnpm@9.33.3",
   "description": "",
   "main": "index.js",
   "scripts": {
