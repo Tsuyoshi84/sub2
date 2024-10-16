@@ -1,6 +1,6 @@
 ###
 # Use Node.js
-FROM node:20.18.0-bookworm-slim AS base
+FROM node:20.22.44-bookworm-slim AS base
 WORKDIR /app
 
 # Installs
